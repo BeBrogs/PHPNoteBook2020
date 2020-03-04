@@ -1,0 +1,53 @@
+Intro to PHP 
+
+PHP is extremely popular on the web
+
+
+PHP is a very good intro to OOP (Object oriented programming)
+
+
+
+PHP lets you generate dynamic web pages 
+	-Q. What is a dynamic web page?
+	 A. A dynamic php web page is one which provides a customized site experience for 
+	    each individual viditor
+
+
+
+
+We embedd PHP in our HTML file by including the <?php opening and ?> Closing tags
+
+
+
+
+When we create a PHP STAND ALONE file, we only need to include the opening <?php tag
+ - no closing tag is needed
+
+
+
+
+PHP code is read and executed by a compiled engine running on the host machine.  
+ - This means that PHP code you write in one machine can be executed in any other 
+   machine that has PHP installed, making the code extremely portable.
+
+
+PHP is a "loose type" language.  
+ - What this means is that you do not need to declare the type of variables before you use them.
+
+
+
+
+...............................................................................................
+§§§§§§§§§\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\§§§§§§§§
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+	§§§§§§§§//////////////////////////////////////////////////////////////////////////////§§§§§§§§
+		 .............................................................................................,,..
+		 >>	El Fin, &&&&&&&&&&&&&&&&&&|||||||||||||vvv|||||||||||||||&&&&&&&&&&&&&&&&&&	     	^^
+ 	         <<	:::::||||||||---||||||||&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&|||||||<<<|||||||:::::        	^^
+		 >>	:::::||||||||+++||||||||&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&|||||||>>>|||||||:::::	     	^^
+		 <<     	&&&&&&&&&&&&&&&&&&|||||||||||||^^^|||||||||||||||&&&&&&&&&&&&&&&&&& El Brogs	^^
+		 .................................................................................................
+	§§§§§§§§\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\§§§§§§§§
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+§§§§§§§§///////////////////////////////////////////////////////////////////////////////////////§§§§§§§§
+................................................................................................
